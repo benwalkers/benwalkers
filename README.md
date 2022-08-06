@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me +51.969364496
+- 📫 How to reach me bpiscoya2020@gmail.com
 
 <!---
 benwalkers/benwalkers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
