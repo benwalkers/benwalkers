@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @benwalkers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Benjamin Piscoya
+- 👀 I’m interested in Machine Learning, Data Analytics and Java Script
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me bpiscoya2020@gmail.com
 
