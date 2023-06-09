@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Piscoya
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in Machine Learning, Data Analytics and Java Script
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ML and Data Science projects
